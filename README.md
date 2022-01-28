@@ -1,2 +1,8 @@
-# responsive-design-project-01
-live-link: https://majharulislam535.github.io/responsive-design-project-01/index.html
+# easybank
+Demo link :[easybank](https://youthful-blackwell-1d9ac3.netlify.app/)
+
+### This is html template 
+### Front-end tchnology
+ 1. Html
+ 2. scss
+ 3. javaScript
